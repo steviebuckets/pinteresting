@@ -1,5 +1,6 @@
 # One Month Rails
 
 This is the Pinteresting sample application for
-(*One Month Rails*) (httpe://onemonthrails.com)
-by (Steve Martin) (http://mysideofthecity.net)
+[*One Month Rails*] (http://onemonthrails.com)
+
+by [Steve Martin] (http://mysideofthecity.net)
