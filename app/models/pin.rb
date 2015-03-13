@@ -1,6 +1,6 @@
 class Pin < ActiveRecord::Base
   belongs_to :user
-  has_attached_file :pin 
+  has_attached_file :image 
   # Validate content type
   validates_attachment_content_type :pin, :content_type => /\Aimage/
   # Validate filename
