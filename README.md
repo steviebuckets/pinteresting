@@ -1,7 +1,7 @@
-# One Month Rails
+Pinteresting Buckets
 
 This is the Pinteresting sample application for
-[*One Month Rails*] (http://onemonthrails.com)
+[*One Month Rails*] (http://pinterestingbuckets.herokuapp.com/)
 
 by [Steve Martin] (http://mysideofthecity.net)
-This is my first attempt at learning to code, crossing fingers!
+
